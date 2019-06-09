@@ -5,6 +5,8 @@ Language Used: Python
 
 This is a voice assistant application made of python code. This is very easy code and easy to understand. Run this code according to the instraction.
 
+****** NO IDE , NO COMMAND , NO CODING KNOWLEDGE ******
+
 Requirement
 --------------------------------------------
 1. Windows (win10 is best)
